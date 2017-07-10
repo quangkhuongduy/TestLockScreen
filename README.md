@@ -2960,17 +2960,17 @@
           {
             "idButton": 1,
             "marginTop": 0,
-            "marginLeft": 1
+            "marginLeft": 0.95
           },
           {
             "idButton": 4,
             "marginTop": 1,
-            "marginLeft": 1
+            "marginLeft": 0.95
           },
           {
             "idButton": 7,
             "marginTop": 2,
-            "marginLeft": 1
+            "marginLeft": 0.95
           }
         ]
       },
