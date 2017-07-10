@@ -2943,12 +2943,12 @@
           {
             "idButton": 2,
             "marginTop": 0.5,
-            "marginLeft": 0
+            "marginLeft": 0.1
           },
           {
             "idButton": 5,
             "marginTop": 1.5,
-            "marginLeft": 0
+            "marginLeft": 0.1
           }
         ]
       },
@@ -2982,12 +2982,12 @@
           {
             "idButton": 3,
             "marginTop": 0.5,
-            "marginLeft": 2
+            "marginLeft": 1.9
           },
           {
             "idButton": 6,
             "marginTop": 1.5,
-            "marginLeft": 2
+            "marginLeft": 1.9
           }
         ]
       }
