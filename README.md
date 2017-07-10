@@ -2932,23 +2932,23 @@
       {
         "id": "01",
         "name": "Hexagon",
-        "widthButton": 0.3333333333,
+        "widthButton": 0.5,
         "numberRow": 3,
         "row": [
           {
             "idRow": 1,
-            "marginLeft": 0.16666666667,
+            "marginLeft": 0.2,
             "marginRight": 0,
             "button": [
               {
                 "idButton": 2,
                 "marginTop": 0.5,
-                "marginLeft": 0.16666666667
+                "marginLeft": 0.2
               },
               {
                 "idButton": 5,
                 "marginTop": 1.5,
-                "marginLeft": 0.16666666667
+                "marginLeft": 0.2
               }
             ]
           },
@@ -2982,12 +2982,12 @@
               {
                 "idButton": 3,
                 "marginTop": 0.5,
-                "marginLeft": 1.8333333333
+                "marginLeft": 2
               },
               {
                 "idButton": 6,
                 "marginTop": 1.5,
-                "marginLeft": 1.8333333333
+                "marginLeft": 2
               }
             ]
           }
