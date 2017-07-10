@@ -2943,12 +2943,12 @@
           {
             "idButton": 2,
             "marginTop": 0.5,
-            "marginLeft": 0.05
+            "marginLeft": 0.1666666666666667
           },
           {
             "idButton": 5,
             "marginTop": 1.5,
-            "marginLeft": 0.05
+            "marginLeft": 0.1666666666666667
           }
         ]
       },
@@ -2960,17 +2960,17 @@
           {
             "idButton": 1,
             "marginTop": 0,
-            "marginLeft": 0.95
+            "marginLeft": 1
           },
           {
             "idButton": 4,
             "marginTop": 1,
-            "marginLeft": 0.95
+            "marginLeft": 1
           },
           {
             "idButton": 7,
             "marginTop": 2,
-            "marginLeft": 0.95
+            "marginLeft": 1
           }
         ]
       },
@@ -2982,12 +2982,12 @@
           {
             "idButton": 3,
             "marginTop": 0.5,
-            "marginLeft": 1.9
+            "marginLeft": 1.833333333333333
           },
           {
             "idButton": 6,
             "marginTop": 1.5,
-            "marginLeft": 1.9
+            "marginLeft": 1.833333333333333
           }
         ]
       }
