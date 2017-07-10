@@ -2937,7 +2937,7 @@
     "row": [
       {
         "idRow": 1,
-        "marginLeft": 0.2,
+        "marginLeft": 0.1,
         "marginRight": 0,
         "button": [
           {
