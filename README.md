@@ -2932,7 +2932,7 @@
       {
         "id": "01",
         "name": "Hexagon",
-        "widthButton": 0.5,
+        "widthButton": 0.4,
         "numberRow": 3,
         "row": [
           {
