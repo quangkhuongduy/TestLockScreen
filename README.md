@@ -2937,18 +2937,18 @@
     "row": [
       {
         "idRow": 1,
-        "marginLeft": 0.1666666666666667,
+        "marginLeft": 0.2,
         "marginRight": 0,
         "button": [
           {
             "idButton": 2,
             "marginTop": 0.5,
-            "marginLeft": 0.1666666666666667
+            "marginLeft": 0.2
           },
           {
             "idButton": 5,
             "marginTop": 1.5,
-            "marginLeft": 0.1666666666666667
+            "marginLeft": 0.2
           }
         ]
       },
@@ -2977,17 +2977,17 @@
       {
         "idRow": 3,
         "marginLeft": 0,
-        "marginRight": 0.1666666666666667,
+        "marginRight": 0.2,
         "button": [
           {
             "idButton": 3,
             "marginTop": 0.5,
-            "marginLeft": 1.833333333333333
+            "marginLeft": 1.8
           },
           {
             "idButton": 6,
             "marginTop": 1.5,
-            "marginLeft": 1.833333333333333
+            "marginLeft": 1.8
           }
         ]
       }
